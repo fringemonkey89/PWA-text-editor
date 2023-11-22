@@ -25,3 +25,11 @@ These modules are bundled in the packages.json file and at the coomand line in n
 these modules will be installed
 
 ## Link
+ URL to Repository
+ - https://github.com/fringemonkey89/PWA-text-editor
+
+ URL to Deployed Site
+
+ ## License
+
+ This project is licensed under the terms of the MIT license
