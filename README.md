@@ -19,7 +19,7 @@ This text editor will use the following npm packages:
 - npm install babel
 - npm install --save-dev css-loader
 - npm install concurrently --save
-- npm install install idb
+- npm install idb
 
 These modules are bundled in the packages.json file and at the coomand line in npm run install,
 these modules will be installed

@@ -18,6 +18,7 @@
   "dependencies": {
     "babel": "^6.23.0",
     "express": "^4.18.2",
+    "html-webpack-plugin": "^5.5.3",
     "idb": "^7.1.1",
     "if-env": "^1.0.4"
   },
@@ -29,5 +30,10 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
     "webpack-pwa-manifest": "^4.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fringemonkey89/PWA-text-editor.git"
+  },
+  "homepage": "https://github.com/fringemonkey89/PWA-text-editor"
 }
